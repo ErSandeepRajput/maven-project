@@ -10,6 +10,7 @@
 	<meta name="author" content="" />
 
   <!-- Facebook and Twitter integration div -->
+  <!-- Facebook and Twitter integration div -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
 	<meta property="og:url" content=""/>
